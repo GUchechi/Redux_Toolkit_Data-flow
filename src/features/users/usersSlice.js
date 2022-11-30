@@ -4,7 +4,7 @@ const initialState = [
 
     { id:"0", name: 'Dude Leboski'},
     { id:"1", name: 'Neil Young'},
-    { id:"0", name: 'Godswill Uchechi'}
+    { id:"2", name: 'Godswill Uchechi'}
 ]
 
 const userSlice = createSlice({
